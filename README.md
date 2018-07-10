@@ -49,6 +49,13 @@ LLM inference server optimized for Apple Silicon with tiered SSD/RAM KV caching,
 
 <br>
 
+#### [MemoryLLM](https://github.com/Lyamon4/memoryllm)
+**Universal Long-Term Memory Engine for AI Agents**
+
+High-performance Rust-based persistent memory system for LLMs and AI coding agents with vector retrieval, hybrid FTS, autonomous consolidation, and MCP/hook integrations.
+
+<br>
+
 #### [Orbit Downloader](https://github.com/Lyamon4/orbit-downloader)
 **Modern Full-Featured Download Manager**
 
