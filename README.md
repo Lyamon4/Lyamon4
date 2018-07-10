@@ -56,17 +56,24 @@ High-performance Rust-based persistent memory system for LLMs and AI coding agen
 
 <br>
 
-#### [SurrealKV](https://github.com/Lyamon4/surrealkv)
+#### [TitanKV](https://github.com/Lyamon4/titankv)
 **Low-Level ACID Embedded Key-Value Storage Engine**
 
 Pure-Rust storage engine with LSM-trees, MemTable, MVCC, write-ahead logging (WAL), and concurrent lock-free reads.
 
 <br>
 
-#### [TinyTensor](https://github.com/Lyamon4/tinytensor)
+#### [CoreTensor](https://github.com/Lyamon4/coretensor)
 **C++20 & CUDA Autograd Tensor Library**
 
 Multi-dimensional tensor engine from scratch featuring automatic differentiation (Autograd), reverse-mode gradient tracking, and custom CUDA GPU acceleration.
+
+<br>
+
+#### [Specter](https://github.com/Lyamon4/specter)
+**Cloud-Native & Container Security Scanner**
+
+Comprehensive vulnerability, misconfiguration, secret, and SBOM scanner for containers, Kubernetes, and codebases in Go.
 
 <br>
 
