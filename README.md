@@ -84,6 +84,8 @@ Sleek, powerful download manager supporting multi-connection chunking, browser i
 
 ---
 
+### activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lyamon4&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lyamon4&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
