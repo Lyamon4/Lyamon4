@@ -56,6 +56,27 @@ High-performance Rust-based persistent memory system for LLMs and AI coding agen
 
 <br>
 
+#### [SurrealKV](https://github.com/Lyamon4/surrealkv)
+**Low-Level ACID Embedded Key-Value Storage Engine**
+
+Pure-Rust storage engine with LSM-trees, MemTable, MVCC, write-ahead logging (WAL), and concurrent lock-free reads.
+
+<br>
+
+#### [TinyTensor](https://github.com/Lyamon4/tinytensor)
+**C++20 & CUDA Autograd Tensor Library**
+
+Multi-dimensional tensor engine from scratch featuring automatic differentiation (Autograd), reverse-mode gradient tracking, and custom CUDA GPU acceleration.
+
+<br>
+
+#### [ESP32 AdBlock](https://github.com/Lyamon4/esp32adblock)
+**Hardware Flash-Hash DNS Sinkhole**
+
+Pi-hole alternative running on a $2 ESP32 with 140,000+ domains packed into flash hashes, binary-search lookup in 10ms with only 50KB RAM.
+
+<br>
+
 #### [Orbit Downloader](https://github.com/Lyamon4/orbit-downloader)
 **Modern Full-Featured Download Manager**
 
