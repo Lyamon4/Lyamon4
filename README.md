@@ -12,10 +12,10 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,c,js,pytorch,fastapi,docker,git,sqlite&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: python • c++ • rust • c • javascript • typescript • sql
+- **languages**: python • c++ • rust • go • c • javascript • typescript • sql
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
