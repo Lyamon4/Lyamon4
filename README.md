@@ -3,7 +3,7 @@
 </p>
 
 ### about
-14-year-old software engineer, systems builder & ml enthusiast. co-founder and cto at [neuralese](https://www.youtube.com/watch?v=218K0ffants). building high-performance systems, visual ai tooling, and developer infrastructure.
+14-year-old software engineer, systems builder & ml enthusiast. co-founder and cto at [neuralese](https://www.youtube.com/watch?v=218K0ffants). building high-performance systems, visual ai tooling, embedded hardware, and developer infrastructure.
 
 🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [wifiskeleton300@gmail.com](mailto:wifiskeleton300@gmail.com)
 
@@ -12,14 +12,14 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,c,js,pytorch,fastapi,docker,git,sqlite&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: python • c++ • rust • go • c • javascript • typescript • sql
-- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching
+- **languages**: python • c++ • rust • c • javascript • typescript • sql
+- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
-- **tools**: Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
+- **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
 
 ---
 
@@ -30,8 +30,8 @@
 
 A full-stack system for learning and building neural networks without code.
 - GPU optimization through cross-model scheduling
-- Used in real educational settings
-- Built from visual interface to deployment
+- Used in real educational settings (raised $12k)
+- Built from visual node interface to deployment
 
 <a href="https://www.youtube.com/watch?v=218K0ffants">
   <img src="https://img.shields.io/badge/▶_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Demo">
@@ -49,31 +49,24 @@ LLM inference server optimized for Apple Silicon with tiered SSD/RAM KV caching,
 
 <br>
 
-#### [MemoryLLM](https://github.com/Lyamon4/memoryllm)
-**Universal Long-Term Memory Engine for AI Agents**
-
-High-performance Rust-based persistent memory system for LLMs and AI coding agents with vector retrieval, hybrid FTS, autonomous consolidation, and MCP/hook integrations.
-
-<br>
-
-#### [TitanKV](https://github.com/Lyamon4/titankv)
-**Low-Level ACID Embedded Key-Value Storage Engine**
-
-Pure-Rust storage engine with LSM-trees, MemTable, MVCC, write-ahead logging (WAL), and concurrent lock-free reads.
-
-<br>
-
 #### [CoreTensor](https://github.com/Lyamon4/coretensor)
 **C++20 & CUDA Autograd Tensor Library**
 
-Multi-dimensional tensor engine from scratch featuring automatic differentiation (Autograd), reverse-mode gradient tracking, and custom CUDA GPU acceleration.
+Multi-dimensional tensor computation engine from scratch featuring automatic gradient tracking (Autograd), reverse-mode computational graphs, and custom CUDA GPU acceleration.
 
 <br>
 
-#### [Specter](https://github.com/Lyamon4/specter)
-**Cloud-Native & Container Security Scanner**
+#### [MemoryLLM](https://github.com/Lyamon4/memoryllm)
+**Universal Long-Term Memory Engine for AI Agents**
 
-Comprehensive vulnerability, misconfiguration, secret, and SBOM scanner for containers, Kubernetes, and codebases in Go.
+High-performance persistent memory system for LLMs and AI coding agents with vector retrieval, hybrid FTS, autonomous consolidation, and MCP/hook integrations.
+
+<br>
+
+#### [Arduino Birthday Countdown](https://github.com/Lyamon4/arduino-birthday-countdown)
+**Embedded Midnight Countdown Box & Surprise Actuator**
+
+Interactive Arduino Nano surprise device with I2C 16x2 LCD countdown, tone melody on passive buzzer, 8-state choreographed LED light show, and 5V relay trigger for external high-power celebration loads.
 
 <br>
 
