@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: python • c++ • rust • c • javascript • typescript • sql
+- **languages**: Python • C++ • Rust • C • JavaScript • TypeScript • SQL
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
@@ -39,7 +39,14 @@ A full-stack system for learning and building neural networks without code.
 
 <br><br>
 
-#### [TurboMLX](https://github.com/Lyamon4/turbomlx)
+#### [Arduino Birthday Countdown](https://github.com/Lyamon4/arduino-birthday-countdown)
+**Embedded Midnight Countdown Box & Surprise Actuator** — *Open Source*
+
+Interactive Arduino Nano surprise device with I2C 16x2 LCD countdown, tone melody on passive buzzer, 8-state choreographed LED light show, and 5V relay trigger for external high-power celebration loads.
+
+<br>
+
+#### TurboMLX
 **High-Performance LLM & VLM Inference Engine**
 
 LLM inference server optimized for Apple Silicon with tiered SSD/RAM KV caching, continuous batching, and native Swift macOS menu bar manager.
@@ -49,35 +56,28 @@ LLM inference server optimized for Apple Silicon with tiered SSD/RAM KV caching,
 
 <br>
 
-#### [CoreTensor](https://github.com/Lyamon4/coretensor)
+#### CoreTensor
 **C++20 & CUDA Autograd Tensor Library**
 
 Multi-dimensional tensor computation engine from scratch featuring automatic gradient tracking (Autograd), reverse-mode computational graphs, and custom CUDA GPU acceleration.
 
 <br>
 
-#### [MemoryLLM](https://github.com/Lyamon4/memoryllm)
+#### MemoryLLM
 **Universal Long-Term Memory Engine for AI Agents**
 
 High-performance persistent memory system for LLMs and AI coding agents with vector retrieval, hybrid FTS, autonomous consolidation, and MCP/hook integrations.
 
 <br>
 
-#### [Arduino Birthday Countdown](https://github.com/Lyamon4/arduino-birthday-countdown)
-**Embedded Midnight Countdown Box & Surprise Actuator**
-
-Interactive Arduino Nano surprise device with I2C 16x2 LCD countdown, tone melody on passive buzzer, 8-state choreographed LED light show, and 5V relay trigger for external high-power celebration loads.
-
-<br>
-
-#### [ESP32 AdBlock](https://github.com/Lyamon4/esp32adblock)
+#### ESP32 AdBlock
 **Hardware Flash-Hash DNS Sinkhole**
 
 Pi-hole alternative running on a $2 ESP32 with 140,000+ domains packed into flash hashes, binary-search lookup in 10ms with only 50KB RAM.
 
 <br>
 
-#### [Orbit Downloader](https://github.com/Lyamon4/orbit-downloader)
+#### Orbit Downloader
 **Modern Full-Featured Download Manager**
 
 Sleek, powerful download manager supporting multi-connection chunking, browser integration, torrent/magnet support, and cross-platform desktop UI.
