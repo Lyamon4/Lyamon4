@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,rust,swift,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python • C++ • Rust • C • JavaScript • TypeScript • SQL
+- **languages**: Python • C++ • Rust • Swift • JavaScript • TypeScript • SQL
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
