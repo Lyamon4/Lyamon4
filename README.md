@@ -12,7 +12,7 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,swift,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: Python • C++ • Rust • C • JavaScript • TypeScript • SQL
